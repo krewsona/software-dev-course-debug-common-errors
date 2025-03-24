@@ -26,7 +26,8 @@ Think about which debugging methods you found most useful and how you might appl
 
 console.log("Welcome to the bootcamp
 
-// What’s Wrong?
+// What’s Wrong? 
+//missing end parenthesis and ; 
 
 
 // Program B
@@ -40,6 +41,7 @@ for (let i = 0; i < numbers.length; i++) {
 }
 
 // What’s Wrong?
+//trying to multipy a string by a number.. convert each item to a number using number()
 
 
 
@@ -60,3 +62,4 @@ function isPrime(num) {
 console.log(isPrime(7)); // Expected true but gets false
 
 // What’s Wrong?
+// im stumped honestly 
